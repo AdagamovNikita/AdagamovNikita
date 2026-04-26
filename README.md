@@ -1,4 +1,6 @@
-<h1 align="center">Hello there!</h1>
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="1000" height="300" />
+</p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg" style="text-decoration: none;">
