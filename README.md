@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hello there!</h1>
+  <h1 style="border-bottom: none;">Hello there!</h1>
 
   <a href="https://git.io/typing-svg" style="text-decoration: none;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=555&lines=Computer+Science+Student+at+AUB+Mediterraneo" alt="Typing SVG" />
