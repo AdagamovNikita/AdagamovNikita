@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./cyberpunk-ghost-in-the-shell.gif" width="100%" style="border-radius: 12px; margin-bottom: 10px;" alt="Cyberpunk Banner" />
+  <h1>Hello there!</h1>
 
   <a href="https://git.io/typing-svg" style="text-decoration: none;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=555&lines=Computer+Science+Student+at+AUB+Mediterraneo" alt="Typing SVG" />
