@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg" style="text-decoration: none;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=39FF14&width=920&center=true&vCenter=true&lines=Computer+Science+Student+at+AUB+Mediterraneo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=39FF14&size=24&width=920&center=true&vCenter=true&lines=Computer+Science+Student+at+AUB+Mediterraneo" alt="Typing SVG" />
   </a>
 
   <h2><b>I’m deeply interested in Systems Analysis and Design, Databases, and Artificial Intelligence</b></h2>
@@ -13,9 +13,5 @@
 
   <a href="https://t.me/nikkkitaad" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-
-  <a href="mailto:nikitaadagamov@yandex.ru" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Yandex%20Mail-E61414?style=for-the-badge&logo=yandex&logoColor=white" />
   </a>
 </div>
