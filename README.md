@@ -1,4 +1,8 @@
 <div align="center">
+  <a href="https://git.io/typing-svg" style="text-decoration: none;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=555&lines=Computer+Science+Student+at+AUB+Mediterraneo" alt="Typing SVG" />
+  </a>
+
   <h2><b>I’m deeply interested in Systems Analysis and Design, Databases, and Artificial Intelligence</b></h2>
 
   <a href="https://aubmed.ac.cy" style="text-decoration: none;">
