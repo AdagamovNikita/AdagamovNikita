@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=39FF14&size=24&width=920&center=true&vCenter=true&lines=Computer+Science+Student+at+AUB+Mediterraneo" alt="Typing SVG" />
   </a>
 
-  <h2><b>I’m deeply interested in Systems Analysis and Design, Databases, and Artificial Intelligence</b></h2>
+  <h2><b>I’m deeply interested in Data Analytics and Machine Learning</b></h2>
 
   <br>
 
